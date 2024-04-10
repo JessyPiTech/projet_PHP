@@ -1,0 +1,1 @@
+pour lancer tout sa y suffit d'installer xamp qui va similer se que fait un vrai serveur, tu lance appache et mysql puis tu met le dossier que tu a clone dans le dossier de xamp genre a peu pres sa C:\xampp\htdocs\projet_PHP puis une fois tout sa fais tu va sur http://localhost/projet_PHP
